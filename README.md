@@ -5,6 +5,7 @@ Copyright (c) 2024 Junho Paeang
 
 
 The link below contains code, video related app and web
+아래 링크에 앱 & 웹 코드, 시연 동영상이 있습니다. 참고 바랍니다.
 https://drive.google.com/drive/folders/141edkvgligXGIw2qgu3G_82NtOcPOhwV?usp=drive_link
 
 Program Diagram
