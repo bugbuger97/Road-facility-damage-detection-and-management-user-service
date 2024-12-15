@@ -1,5 +1,9 @@
 # Road-facility-damage-detection-and-management-user-service
 
+MIT License
+Copyright (c) 2024 Junho Paeang
+
+
 The link below contains code, video related app and web
 https://drive.google.com/drive/folders/141edkvgligXGIw2qgu3G_82NtOcPOhwV?usp=drive_link
 
